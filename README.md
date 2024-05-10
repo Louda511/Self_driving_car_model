@@ -54,7 +54,7 @@ Images were cropped to remove irrelevant features such as the sky and road verge
 ## License
 (Specify the license under which the code and associated resources are distributed.)
 ## Contributors
-Thank you to all the contributors who have helped make Lawyer Assistant App better! ✨
+Thank you to all the contributors who have helped make Self-Driving Car Model better! ✨
 - [Ahmed Khaled](https://github.com/Louda511)
 - [Mohamed Magdy](https://github.com/MohamedMagdy097)
 - [Abelrahman Ashraf](https://github.com/Abdu117)
