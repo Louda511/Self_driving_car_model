@@ -1,5 +1,5 @@
 
-# Self-Driving Car Model with NVIDIA DNN and Udacity Simulator
+
 
 ## Abstract
 This repository contains the implementation of a self-driving car model using NVIDIA's Deep Neural Network (DNN) architecture and the Udacity Simulator. The model is trained to autonomously navigate a simulated environment, demonstrating the capabilities of deep learning in the field of autonomous vehicles.
