@@ -1,4 +1,4 @@
-# Self-Driving Car Model with NVIDIA DNN and Udacity Simulator
+# Self-Driving Car Model with NVIDIA CNN and Udacity Simulator
 
 
 ## Abstract
