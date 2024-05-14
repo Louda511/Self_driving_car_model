@@ -115,22 +115,14 @@ Utilizing the Udacity simulator, we rigorously tested the model under various si
 
 This project enhances our understanding of autonomous driving technologies and sets a solid foundation for further advancements in AI applications within the transportation sector. Overall, we have created a robust, efficient AI-driven system that holds promise for shaping the future of autonomous vehicles.
 
-## Future Work
-(Highlight potential enhancements and future directions for the project.)
-
-## License
-(Specify the license under which the code and associated resources are distributed.)
 ## Contributors
 Thank you to all the contributors who have helped make Self-Driving Car Model better! ✨
-- [Ahmed Khaled](https://github.com/Louda511)
+- [Abdelrahman El-Badawy]([https://github.com/Louda511](https://github.com/AbdelrahmanBadwy))
 - [Mohamed Magdy](https://github.com/MohamedMagdy097)
 - [Abelrahman Ashraf](https://github.com/Abdu117)
 - [Rehab Mohamed](https://github.com/rehabmohamed2)
 ## Acknowledgments
 (Give credit to any individuals, organizations, or projects that contributed to the development of the self-driving car model.)
 
-## Contact Information
 
-If you have any questions or feedback, please contact me at [abdoo738@yahoo.com].                          
-or my LinkedIn [https://www.linkedin.com/in/abdelrahman-badawy-4517a6231/]
 
