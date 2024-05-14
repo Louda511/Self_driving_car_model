@@ -125,7 +125,7 @@ Thank you to all the contributors who have helped make Self-Driving Car Model be
 - [Ahmed Khaled](https://github.com/Louda511)
 - [Mohamed Magdy](https://github.com/MohamedMagdy097)
 - [Abelrahman Ashraf](https://github.com/Abdu117)
-- [Rehab Mohamed]()
+- [Rehab Mohamed](https://github.com/rehabmohamed2)
 ## Acknowledgments
 (Give credit to any individuals, organizations, or projects that contributed to the development of the self-driving car model.)
 
