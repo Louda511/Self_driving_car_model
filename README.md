@@ -104,7 +104,7 @@ The model demonstrated excellent performance in these simulations, adapting well
 #### Training and Validation
 During training, our model achieved impressive results, with both training and validation losses maintained below 0.05 across 10 epochs. This indicates a high level of accuracy in the model's predictions relative to the actual required steering inputs. The low loss values are a strong indicator of the model's ability to generalize from the training data to unseen scenarios in the validation phase, confirming the effectiveness of our data preprocessing and augmentation strategies.
 
-<img width="670" alt="Screenshot 2024-05-14 at 3 22 35 AM" src="https://github.com/AbdelrahmanBadwy/Self_driving_car_model/assets/107257581/0d49d7e4-36ea-4d68-8e59-8da2ab93ec21">
+<img width="665" alt="Screenshot 2024-05-14 at 3 26 34 AM" src="https://github.com/AbdelrahmanBadwy/Self_driving_car_model/assets/107257581/bc0fdc7a-5e89-4213-a2e2-e519e40aca54">
 
 In lieu of real-world testing, the extensive simulation-based evaluations provided a solid foundation for assessing the model's practical applicability and safety in real-world conditions, albeit within virtual parameters. The positive results from the Udacity simulator affirm the model's readiness for further developmental stages and potential real-world applications in the future.
 
